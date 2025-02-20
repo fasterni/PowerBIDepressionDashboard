@@ -36,14 +36,4 @@ Celem projektu jest analiza czynników wpływających na poziom depresji wśród
 
 ---
 
-
-## 💡 Wnioski z analizy
-- Najwyższy odsetek depresji występuje w grupie wiekowej **21-25 lat**.
-- **Czas spędzany w mediach społecznościowych** ma negatywną korelację z poziomem zdrowia psychicznego.
-- Studenci śpiący **mniej niż 5 godzin** są najbardziej narażeni na objawy depresji.
-- **Stres akademicki** i **obciążenie finansowe** znacząco wpływają na poziom depresji.
-
----
-
-## 📁 Pobierz projekt
 👉 [Pobierz plik Power BI (.pbix)](./Depression_Power_BI_Dashboard.pbix)
